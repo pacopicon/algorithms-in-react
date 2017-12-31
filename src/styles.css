@@ -1,0 +1,43 @@
+p {
+	font-family: 'Roboto Mono', monospace;
+}
+
+.il {
+	padding-left: 3vw;
+}
+
+.ilil {
+	padding-left: 6vw;
+}
+
+.ililil {
+	padding-left: 9vw;
+}
+
+.ilililil {
+	padding-left: 12vw;
+}
+
+.alert {
+	padding-left: 1vw;
+	padding-right: 1vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+
+.alert {
+	margin-left: 3.5vw;
+	margin-right: 27%;
+	margin-bottom: 2vh;
+	overflow: hidden;
+}
+
+.green {
+	color: green;
+	font-size: 50px;
+}
+
+.red {
+	color: red;
+	font-style: italic; 
+}
