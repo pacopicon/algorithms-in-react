@@ -116,12 +116,6 @@ class Closure extends Component {
   render() {
     return (
       <div className="Closure">
-      	<p className="green">H</p>
-      	<p className="red">e</p>
-      	<p className="green">l</p>
-      	<p className="red">l</p>
-      	<p className="green">o </p>
-      	<p>Javi!</p>
       	<p>(1) Eliminating Global var without Closure:</p>
       	<pre className="il alert alert-danger">
       		{notClosureCode}

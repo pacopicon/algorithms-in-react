@@ -32,12 +32,28 @@ p {
 	overflow: hidden;
 }
 
+.btn {
+	border-radius: 0.5em;
+	height: 2em;
+	width: 15em;
+	background-color: white;
+	border: black 1px solid;
+}
+
+.btn:hover {
+	background-color: black;
+	color: white;
+}
+
+.textarea {
+	height: 90vh;
+	width: 90%;
+}
+
 .green {
 	color: green;
-	font-size: 50px;
 }
 
 .red {
 	color: red;
-	font-style: italic; 
 }
